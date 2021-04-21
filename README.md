@@ -1,14 +1,14 @@
-# RiverRegulation_Frog_PopModel
-This code underpins the aspatial stochastic population model presented in the article "Modelling effects of water regulation on the population viability of threatened amphibians"
-
-
-# Megafauna Susceptibility
+# Stochastic Population Model for <i>Litoria raniformis</i>
+These files underpin the aspatial stochastic population model presented in the article "Modelling effects of water regulation on the population viability of threatened amphibians"
 
 <strong>AUTHOR</strong>: Rupert Mathwin and Corey Bradshaw
+
 <strong>CONTACT</strong>: rupert.mathwin.ecology@gmail.com
+
 <strong>URL</strong>: http://GlobalEcologyFlinders.com
 
 <strong>INSTITUTION</strong>: Flinders University
+
 <strong>INSTITUTION</strong>: Rupert.Mathwin.Ecology
 
 <strong>RELEASE DATE</strong>: April 2021
