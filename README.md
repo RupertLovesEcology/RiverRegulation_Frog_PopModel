@@ -1,5 +1,5 @@
 # Stochastic Population Model for <i>Litoria raniformis</i>
-These files underpin the aspatial stochastic population model presented in the article "Modelling effects of water regulation on the population viability of threatened amphibians"
+These files underpin the aspatial stochastic population models presented in the article "Modelling effects of water regulation on the population viability of threatened amphibians"
 
 <strong>AUTHOR</strong>: Rupert Mathwin and Corey Bradshaw
 
@@ -21,6 +21,6 @@ R code accompanies article:
 
 Repository includes the following files:
 - '<a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/matrixOperators.r">matrixOperators.R</a>' — functions to manipulate matrix models
-- '<a href="https://github.com/RupertLovesEcology/RiverRegulation_Frog_PopModel/blob/main/Aspatial_Lraniformis_V9%2015_10_2020.R"</a>' — R code to run all population models
-- '<a href="https://github.com/RupertLovesEcology/RiverRegulation_Frog_PopModel/blob/main/CompHeightL3.csv"</a>' — wetland inundation records used to construct Markov-chain for stochastic resampling
+- '<a href="https://github.com/RupertLovesEcology/RiverRegulation_Frog_PopModel/blob/main/Aspatial_Lraniformis_V9%2015_10_2020.R">Aspatial_Lraniformis_V9.R</a>' — R code to run all population models
+- '<a href="https://github.com/RupertLovesEcology/RiverRegulation_Frog_PopModel/blob/main/CompHeightL3.csv">CompHeightL3.csv</a>' — wetland inundation records used to construct Markov-chains for stochastic resampling of inundation regimes
 
