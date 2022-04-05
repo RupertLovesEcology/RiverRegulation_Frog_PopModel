@@ -1,5 +1,5 @@
 # Stochastic Population Model for <i>Litoria raniformis</i>
-These files underpin the aspatial stochastic population models presented in the article "Modelling effects of water regulation on the population viability of threatened amphibians"
+These files underpin the aspatial stochastic population models presented in the article "Forecasting the effects of water regulation on the population viability of a threatened amphibian"
 
 <strong>AUTHOR</strong>: Rupert Mathwin and Corey Bradshaw
 
