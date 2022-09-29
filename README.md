@@ -11,7 +11,7 @@ These files underpin the aspatial stochastic population models presented in the 
 
 <strong>INSTITUTION</strong>: Rupert.Mathwin.Ecology
 
-<strong>RELEASE DATE</strong>: April 2021
+<strong>RELEASE DATE</strong>: September 2022
 
 R code accompanies article: 
 
@@ -21,6 +21,7 @@ R code accompanies article:
 
 Repository includes the following files:
 - '<a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/matrixOperators.r">matrixOperators.R</a>' — functions to manipulate matrix models
-- '<a href="https://github.com/RupertLovesEcology/RiverRegulation_Frog_PopModel/blob/main/Aspatial_Lraniformis_V10.R">Aspatial_Lraniformis_10.R</a>' — R code to run all population models
+- '<a href="https://github.com/RupertLovesEcology/RiverRegulation_Frog_PopModel/blob/main/Aspatial_Lraniformis_V10.R">Aspatial_Lraniformis_V10.R</a>' — R code to run all population models
+- '<a href="https://github.com/RupertLovesEcology/RiverRegulation_Frog_PopModel/blob/main/Aspatial_Lraniformis_V10_global sensitivity_LHCandBRT.R">Aspatial_Lraniformis_V10_global sensitivity_LHCandBRT.R</a>' — R code to run global sensitivity analysis on the apsatial Lraniformis models
 - '<a href="https://github.com/RupertLovesEcology/RiverRegulation_Frog_PopModel/blob/main/CompHeightL3.csv">CompHeightL3.csv</a>' — wetland inundation records used to construct Markov-chains for stochastic resampling of inundation regimes
 
