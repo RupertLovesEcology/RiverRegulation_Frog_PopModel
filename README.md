@@ -1,6 +1,11 @@
 # Stochastic Population Model for <i>Litoria raniformis</i>
 These files underpin the aspatial stochastic population models presented in the article "Modelling the effects of water regulation on the population viability of threatened amphibians"
 
+
+[![DOI](https://zenodo.org/badge/359000377.svg)](https://zenodo.org/badge/latestdoi/359000377)
+
+
+
 <strong>AUTHOR</strong>: Rupert Mathwin, Matt S. Gibbs and Corey J. A. Bradshaw
 
 <strong>CONTACT</strong>: rupert.mathwin.ecology@gmail.com
